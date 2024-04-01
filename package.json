@@ -1,6 +1,6 @@
 {
   "name": "@kmy/improved",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "From simple task of Oolong testing, created and improved to the finest perfection of data rolling. Calculating simple median. ",
   "main": "average.js",
   "scripts": {
